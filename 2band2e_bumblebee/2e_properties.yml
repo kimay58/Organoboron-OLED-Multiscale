@@ -1,0 +1,22 @@
+---
+materials:
+- id: 1
+  name: C36H25BFN3O2
+  description: FB1Oc2ccccc2C2C=C(C=Cc3ccc(cc3)N(c3ccccc3)c3ccccc3)N=C(N=2)c2ccccc2O1
+  homo: -6.04
+  lumo: -2.31
+  sigma_homo: 0.128
+  sigma_lumo: 0.218
+  singlet: 2.60
+  triplet: 2.12
+  sigma_singlet: 0.159
+  sigma_triplet: 0.152
+  dipole_strength: 9.50
+  transition_dipole_anisotropy: 0.170
+compositions:
+- id: 0
+  name: C36H25BFN3O2 (AMS)
+  description: Calculated by the AMS OLED workflows
+  fractions:
+  - material_id: 1
+    fraction: 1.0

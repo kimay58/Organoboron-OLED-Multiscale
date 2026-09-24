@@ -1,0 +1,22 @@
+---
+materials:
+- id: 1
+  name: C29H20BFN2O3
+  description: COc1ccc2cc(C=Cc3cc4nc(n3)-c3ccccc3OB(F)Oc3ccccc3-4)ccc-2c1
+  homo: -6.19
+  lumo: -2.13
+  sigma_homo: 0.179
+  sigma_lumo: 0.201
+  singlet: 2.99
+  triplet: 2.30
+  sigma_singlet: 0.129
+  sigma_triplet: 0.112
+  dipole_strength: 9.74
+  transition_dipole_anisotropy: 0.169
+compositions:
+- id: 0
+  name: C29H20BFN2O3 (AMS)
+  description: Calculated by the AMS OLED workflows
+  fractions:
+  - material_id: 1
+    fraction: 1.0
