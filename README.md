@@ -1,5 +1,4 @@
 # Organoboron-OLED-Multiscale
-# Organoboron-OLED-Multiscale
 
 This repository contains the computational input files, processed data, and OLED simulation parameters associated with the manuscript:
 
